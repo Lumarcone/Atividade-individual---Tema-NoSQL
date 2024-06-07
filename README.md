@@ -13,8 +13,8 @@ Crie, conforme o modelo relacional, as tabelas normalizadas. Crie também um doc
 # ETAPA 3
 
 * Crie um banco de dados NoSQL no Firebase conforme foi demonstrado no conteúdo da aula sobre banco de dados não relacionais;
-*Ao término do exemplo, crie um segundo banco de dados, mas utilizando o tema Jogos;
-*Nesse banco deve haver, coleções de personagens, jogos e fabricante;
-*Relacione documentos de diferentes coleções.
+* Ao término do exemplo, crie um segundo banco de dados, mas utilizando o tema Jogos;
+* Nesse banco deve haver, coleções de personagens, jogos e fabricante;
+* Relacione documentos de diferentes coleções.
 Para entrega desta atividade utilize o readme.md de um repositório remoto, crie os códigos json das etapas 1 e 2;
 Na terceira etapa tira um print-screen da sua tela onde contem o banco de dados não relacional, a imagem deve conter sua identificação na conta do Google Firestore e os itens solicitados na atividade
